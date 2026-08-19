@@ -6,14 +6,39 @@ class Solution {
 
         while(b >= 0){
             if(a >= 0 && nums1[a] > nums2[b]){
-                nums1[right] = nums1[a];
+                nums1[right]=nums1[a];
                 a--;
             }
             else{
-                nums1[right] = nums2[b];
+                nums1[right]=nums2[b];
                 b--;
             }
             right--;
         }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        // while(b >= 0){
+        //     if(a >= 0 && nums1[a] > nums2[b]){
+        //         nums1[right] = nums1[a];
+        //         a--;
+        //     }
+        //     else{
+        //         nums1[right] = nums2[b];
+        //         b--;
+        //     }
+        //     right--;
+        // }
     }
 }
