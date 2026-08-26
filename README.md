@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/sunilkumardo/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/sunilkumardo/leetcode-solutions/tree/master/0014-longest-common-prefix) |
+| [0394-decode-string](https://github.com/sunilkumardo/leetcode-solutions/tree/master/0394-decode-string) |
 ## Trie
 |  |
 | ------- |
@@ -112,8 +113,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/sunilkumardo/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0394-decode-string](https://github.com/sunilkumardo/leetcode-solutions/tree/master/0394-decode-string) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/sunilkumardo/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+## Recursion
+|  |
+| ------- |
+| [0394-decode-string](https://github.com/sunilkumardo/leetcode-solutions/tree/master/0394-decode-string) |
 <!---LeetCode Topics End-->
