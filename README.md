@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sunilkumardo/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/sunilkumardo/leetcode-solutions/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/sunilkumardo/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0059-spiral-matrix-ii](https://github.com/sunilkumardo/leetcode-solutions/tree/master/0059-spiral-matrix-ii) |
 | [0088-merge-sorted-array](https://github.com/sunilkumardo/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sunilkumardo/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/sunilkumardo/leetcode-solutions/tree/master/0169-majority-element) |
@@ -169,4 +170,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/sunilkumardo/leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
+## Matrix
+|  |
+| ------- |
+| [0059-spiral-matrix-ii](https://github.com/sunilkumardo/leetcode-solutions/tree/master/0059-spiral-matrix-ii) |
+## Simulation
+|  |
+| ------- |
+| [0059-spiral-matrix-ii](https://github.com/sunilkumardo/leetcode-solutions/tree/master/0059-spiral-matrix-ii) |
 <!---LeetCode Topics End-->
