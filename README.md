@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/sunilkumardo/leetcode-solutions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sunilkumardo/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sunilkumardo/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0872-leaf-similar-trees](https://github.com/sunilkumardo/leetcode-solutions/tree/master/0872-leaf-similar-trees) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/sunilkumardo/leetcode-solutions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sunilkumardo/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sunilkumardo/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0872-leaf-similar-trees](https://github.com/sunilkumardo/leetcode-solutions/tree/master/0872-leaf-similar-trees) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/sunilkumardo/leetcode-solutions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sunilkumardo/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sunilkumardo/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0872-leaf-similar-trees](https://github.com/sunilkumardo/leetcode-solutions/tree/master/0872-leaf-similar-trees) |
 ## Stack
 |  |
 | ------- |
