@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/sunilkumardo/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/sunilkumardo/leetcode-solutions/tree/master/0013-roman-to-integer) |
+| [0069-sqrtx](https://github.com/sunilkumardo/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/sunilkumardo/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/sunilkumardo/leetcode-solutions/tree/master/0268-missing-number) |
 | [1323-maximum-69-number](https://github.com/sunilkumardo/leetcode-solutions/tree/master/1323-maximum-69-number) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/sunilkumardo/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/sunilkumardo/leetcode-solutions/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
@@ -222,4 +224,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1323-maximum-69-number](https://github.com/sunilkumardo/leetcode-solutions/tree/master/1323-maximum-69-number) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/sunilkumardo/leetcode-solutions/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
