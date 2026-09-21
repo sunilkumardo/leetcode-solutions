@@ -1,8 +1,13 @@
 class Solution {
     public int countSegments(String s) {
-        s=s.trim();
-        if(s.isEmpty())return 0;
-        String[] word=s.split("\\s+");
-        return word.length;
+        int count=0;
+        for(int i=0;i<s.length();i++){
+            if(s.charAt(i) != ' '){
+                if(i ==0 || s.charAt(i -1) == ' '){
+                    count++;
+                }
+            }
+        }
+        return count;
     }
 }
