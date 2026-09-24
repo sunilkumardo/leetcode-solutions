@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/sunilkumardo/leetcode-solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/sunilkumardo/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sunilkumardo/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0500-keyboard-row](https://github.com/sunilkumardo/leetcode-solutions/tree/master/0500-keyboard-row) |
 | [0896-monotonic-array](https://github.com/sunilkumardo/leetcode-solutions/tree/master/0896-monotonic-array) |
 | [1748-sum-of-unique-elements](https://github.com/sunilkumardo/leetcode-solutions/tree/master/1748-sum-of-unique-elements) |
 ## Hash Table
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/sunilkumardo/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/sunilkumardo/leetcode-solutions/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sunilkumardo/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0500-keyboard-row](https://github.com/sunilkumardo/leetcode-solutions/tree/master/0500-keyboard-row) |
 | [1748-sum-of-unique-elements](https://github.com/sunilkumardo/leetcode-solutions/tree/master/1748-sum-of-unique-elements) |
 ## Dynamic Programming
 |  |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/sunilkumardo/leetcode-solutions/tree/master/0394-decode-string) |
 | [0434-number-of-segments-in-a-string](https://github.com/sunilkumardo/leetcode-solutions/tree/master/0434-number-of-segments-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/sunilkumardo/leetcode-solutions/tree/master/0459-repeated-substring-pattern) |
+| [0500-keyboard-row](https://github.com/sunilkumardo/leetcode-solutions/tree/master/0500-keyboard-row) |
 ## Trie
 |  |
 | ------- |
