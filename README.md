@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/sunilkumardo/leetcode-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0657-robot-return-to-origin](https://github.com/sunilkumardo/leetcode-solutions/tree/master/0657-robot-return-to-origin) |
 | [0709-to-lower-case](https://github.com/sunilkumardo/leetcode-solutions/tree/master/0709-to-lower-case) |
+| [2810-faulty-keyboard](https://github.com/sunilkumardo/leetcode-solutions/tree/master/2810-faulty-keyboard) |
 ## Trie
 |  |
 | ------- |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/sunilkumardo/leetcode-solutions/tree/master/0059-spiral-matrix-ii) |
 | [0657-robot-return-to-origin](https://github.com/sunilkumardo/leetcode-solutions/tree/master/0657-robot-return-to-origin) |
+| [2810-faulty-keyboard](https://github.com/sunilkumardo/leetcode-solutions/tree/master/2810-faulty-keyboard) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
