@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/sunilkumardo/leetcode-solutions/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/sunilkumardo/leetcode-solutions/tree/master/0506-relative-ranks) |
 | [0896-monotonic-array](https://github.com/sunilkumardo/leetcode-solutions/tree/master/0896-monotonic-array) |
+| [1051-height-checker](https://github.com/sunilkumardo/leetcode-solutions/tree/master/1051-height-checker) |
 | [1748-sum-of-unique-elements](https://github.com/sunilkumardo/leetcode-solutions/tree/master/1748-sum-of-unique-elements) |
 ## Hash Table
 |  |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/sunilkumardo/leetcode-solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/sunilkumardo/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0506-relative-ranks](https://github.com/sunilkumardo/leetcode-solutions/tree/master/0506-relative-ranks) |
+| [1051-height-checker](https://github.com/sunilkumardo/leetcode-solutions/tree/master/1051-height-checker) |
 ## Math
 |  |
 | ------- |
@@ -276,4 +278,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0506-relative-ranks](https://github.com/sunilkumardo/leetcode-solutions/tree/master/0506-relative-ranks) |
+## Counting Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/sunilkumardo/leetcode-solutions/tree/master/1051-height-checker) |
+## Bubble Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/sunilkumardo/leetcode-solutions/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
