@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/sunilkumardo/leetcode-solutions/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/sunilkumardo/leetcode-solutions/tree/master/0506-relative-ranks) |
 | [0896-monotonic-array](https://github.com/sunilkumardo/leetcode-solutions/tree/master/0896-monotonic-array) |
+| [1046-last-stone-weight](https://github.com/sunilkumardo/leetcode-solutions/tree/master/1046-last-stone-weight) |
 | [1051-height-checker](https://github.com/sunilkumardo/leetcode-solutions/tree/master/1051-height-checker) |
 | [1748-sum-of-unique-elements](https://github.com/sunilkumardo/leetcode-solutions/tree/master/1748-sum-of-unique-elements) |
 ## Hash Table
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0506-relative-ranks](https://github.com/sunilkumardo/leetcode-solutions/tree/master/0506-relative-ranks) |
+| [1046-last-stone-weight](https://github.com/sunilkumardo/leetcode-solutions/tree/master/1046-last-stone-weight) |
 ## Counting Sort
 |  |
 | ------- |
