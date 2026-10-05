@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/sunilkumardo/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/sunilkumardo/leetcode-solutions/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/sunilkumardo/leetcode-solutions/tree/master/0506-relative-ranks) |
+| [0682-baseball-game](https://github.com/sunilkumardo/leetcode-solutions/tree/master/0682-baseball-game) |
 | [0896-monotonic-array](https://github.com/sunilkumardo/leetcode-solutions/tree/master/0896-monotonic-array) |
 | [1046-last-stone-weight](https://github.com/sunilkumardo/leetcode-solutions/tree/master/1046-last-stone-weight) |
 | [1051-height-checker](https://github.com/sunilkumardo/leetcode-solutions/tree/master/1051-height-checker) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/sunilkumardo/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/sunilkumardo/leetcode-solutions/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/sunilkumardo/leetcode-solutions/tree/master/0496-next-greater-element-i) |
+| [0682-baseball-game](https://github.com/sunilkumardo/leetcode-solutions/tree/master/0682-baseball-game) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -257,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/sunilkumardo/leetcode-solutions/tree/master/0059-spiral-matrix-ii) |
 | [0657-robot-return-to-origin](https://github.com/sunilkumardo/leetcode-solutions/tree/master/0657-robot-return-to-origin) |
+| [0682-baseball-game](https://github.com/sunilkumardo/leetcode-solutions/tree/master/0682-baseball-game) |
 | [2810-faulty-keyboard](https://github.com/sunilkumardo/leetcode-solutions/tree/master/2810-faulty-keyboard) |
 ## Floyd's Cycle Finding Algorithm
 |  |
