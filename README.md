@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/sunilkumardo/leetcode-solutions/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/sunilkumardo/leetcode-solutions/tree/master/0506-relative-ranks) |
 | [0682-baseball-game](https://github.com/sunilkumardo/leetcode-solutions/tree/master/0682-baseball-game) |
+| [0804-unique-morse-code-words](https://github.com/sunilkumardo/leetcode-solutions/tree/master/0804-unique-morse-code-words) |
 | [0896-monotonic-array](https://github.com/sunilkumardo/leetcode-solutions/tree/master/0896-monotonic-array) |
 | [1046-last-stone-weight](https://github.com/sunilkumardo/leetcode-solutions/tree/master/1046-last-stone-weight) |
 | [1051-height-checker](https://github.com/sunilkumardo/leetcode-solutions/tree/master/1051-height-checker) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/sunilkumardo/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/sunilkumardo/leetcode-solutions/tree/master/0500-keyboard-row) |
 | [0771-jewels-and-stones](https://github.com/sunilkumardo/leetcode-solutions/tree/master/0771-jewels-and-stones) |
+| [0804-unique-morse-code-words](https://github.com/sunilkumardo/leetcode-solutions/tree/master/0804-unique-morse-code-words) |
 | [1748-sum-of-unique-elements](https://github.com/sunilkumardo/leetcode-solutions/tree/master/1748-sum-of-unique-elements) |
 ## Dynamic Programming
 |  |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/sunilkumardo/leetcode-solutions/tree/master/0657-robot-return-to-origin) |
 | [0709-to-lower-case](https://github.com/sunilkumardo/leetcode-solutions/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/sunilkumardo/leetcode-solutions/tree/master/0771-jewels-and-stones) |
+| [0804-unique-morse-code-words](https://github.com/sunilkumardo/leetcode-solutions/tree/master/0804-unique-morse-code-words) |
 | [2810-faulty-keyboard](https://github.com/sunilkumardo/leetcode-solutions/tree/master/2810-faulty-keyboard) |
 ## Trie
 |  |
